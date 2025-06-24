@@ -1,2 +1,1 @@
-# bokepindomom
-bokepindomom
+# [bokepindomom](https://bokepindomom.pages.dev)
